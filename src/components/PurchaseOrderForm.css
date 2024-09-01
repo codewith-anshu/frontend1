@@ -1,0 +1,18 @@
+.purchase-order-form {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .purchase-order-details,
+  .talent-details {
+    border: 1px solid #dee2e6;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .purchase-order-details h4,
+  .talent-details h4 {
+    margin-bottom: 20px;
+  }
+  
